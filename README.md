@@ -1,2 +1,2 @@
-# Moprion_CPP
-Moprion_CPP
+# Moprion en c++
+Un jeux de Morpion en C++
